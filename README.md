@@ -12,7 +12,7 @@ npm install
 
 2. Create `.env` file in the root directory and add your `API_KEY`
 ```bash
-echo "API_KEY={YOUR_API_KEY}" >> .env
+echo "API_KEY=YOUR_API_KEY" >> .env
 ```
 
 3. Start the frontend
